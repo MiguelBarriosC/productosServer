@@ -1,0 +1,11 @@
+{
+    "products": [
+        {
+            "nombre": "mortadela",
+            "categoria": "embutidos",
+            "sabor": "carne",
+            "precio": 5000,
+            "estado": true
+        }
+    ]
+}
